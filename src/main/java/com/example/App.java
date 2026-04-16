@@ -1,5 +1,4 @@
-
-java package com.example;
+package com.example;
 
 public class App {
 
